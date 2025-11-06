@@ -26,7 +26,7 @@ Kazuri is your AI-powered development assistant using AWS Bedrock's Claude 3 Son
 1. Clone the repository:
 ```bash
 git clone https://github.com/hillaryhitch/kazuri.git
-cd kazuri
+cd /Users/hmwangila/Documents/Cline/MCP/kazuri
 ```
 
 2. Create and activate a virtual environment:
